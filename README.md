@@ -26,3 +26,4 @@ To recreate the classical **LeNet-5 CNN architecture** and use it to classify ha
 - Output: Dense – 10 units, softmax  
 
 ---
+![LeNet-5 Architecture](https://en.wikipedia.org/wiki/LeNet#/media/File:LeNet-5_architecture.svg)
